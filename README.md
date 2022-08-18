@@ -6,4 +6,3 @@ This is the repository for my Advanced Higher Computing project - a simple, Comp
 - QuestionsDatabase is a simple Access database file containing questions that I pull in to use in the program
 - main.py is the primary body of code
 - compsci.png is a simple image asset used in the home page
-- Project Word is my W.I.P write-up of the project.
